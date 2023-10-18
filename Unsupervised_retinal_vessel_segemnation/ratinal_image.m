@@ -41,3 +41,4 @@ title('Mask Image');
 subplot(1,3,3);
 imshow(I_G_mask);
 title('Multiplyed Image');
+%% PSO
